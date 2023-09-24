@@ -1,0 +1,2 @@
+D:\Bank System\BankSystem\x64\Debug\BankSystem.exe
+D:\CPP Project Bank System\BankSystem\x64\Debug\BankSystem.exe
